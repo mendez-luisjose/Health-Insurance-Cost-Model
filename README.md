@@ -24,4 +24,8 @@ Fill in all the information in the `main.py` file built with `Streamlit`.
 streamlit run main.py
 ```
 
+## Resources
+- Code explained at: https://mendezluisjose.hashnode.dev/health-insurance-cost-model-with-xgbregressor-and-streamlit
+- Dataset: https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset
+
 
